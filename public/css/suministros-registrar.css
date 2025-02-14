@@ -1,0 +1,240 @@
+.header-text {
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.form {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 0 10px;
+    grid-column-gap: 20px;
+    grid-row-gap: 30px;
+    margin-top: 70px;
+}
+
+.form-title {
+    grid-column: 1 / -1;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.form__content {
+    padding: 20px 10px;
+    box-shadow: 0px 3px 12px 0px rgba(20, 20, 20, 0.2);
+    border-radius: 10px;
+    display: grid;
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    width: 100%;
+    height: max-content;
+}
+
+.form__suministro__content {
+    display: grid;
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    width: 100%;
+    height: max-content;
+}
+
+.form__suministro__content[data-disabled="true"] {
+    pointer-events: none;
+    opacity: 0.4;
+}
+
+.disabled-input {
+    pointer-events: none;
+    opacity: 0.7;
+}
+
+.form__input {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 5px;
+    width: 100%;
+    height: max-content;
+}
+
+.form__input-label {
+    font-size: 16px;
+    cursor: pointer;
+    width: max-content;
+    font-weight: 500;
+}
+
+.form__input.form__input--rif,
+.form__input.form__input--tel {
+    grid-column-gap: 0;
+    grid-template-columns: max-content 1fr;
+}
+
+.form__input.form__input--rif .form__input-label,
+.form__input.form__input--tel .form__input-label {
+    grid-column: 1 / -1;
+}
+
+.form__input.form__input--rif .form__input-select,
+.form__input.form__input--tel .form__input-select {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.form__input.form__input--rif .form__input-input,
+.form__input.form__input--tel .form__input-input {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form__input-input,
+.form__input-select {
+    height: 35px;
+    padding: 0 5px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    font-size: 15px;
+    width: 100%;
+}
+
+.form__input-input:focus {
+    border: 1px solid rgb(35, 103, 213);
+}
+/* Input file para la imagen */
+#imagenSuministro {
+    display: none;
+}
+.form__input-btnImg {
+    height: 35px;
+    line-height: 35px;
+    width: max-content;
+    font-size: 15px;
+    background-color: rgb(25, 40, 81);
+    color: #fff;
+    border-radius: 5px;
+    padding: 0 10px;
+    cursor: pointer;
+}
+
+.form__input-select {
+    background-color: rgb(25, 40, 81);
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+.form__input-error {
+    display: block;
+    background-color: #d33;
+    color: #fff;
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 5px;
+    grid-column: 1 / -1;
+}
+
+.form__input.form__input--rif .form__input-error,
+.form__input.form__input--tel .form__input-error {
+    grid-row: 3 / 4;
+}
+
+
+
+
+.form-submit {
+    grid-column: 1 / -1;
+    width: max-content;
+    margin: 0 auto;
+    display: inline-flex;
+    align-items: center;
+    text-transform: capitalize;
+    grid-gap: 5px;
+    cursor: pointer;
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: rgb(35, 103, 213);
+    color: #fff;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+}
+
+.form-submit svg {
+    fill: #fff;
+    width: 25px;
+}
+
+.form-submit::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    border-radius: 5px;
+    background-color: rgb(10, 46, 105);
+    z-index: -1;
+    transition: width 0.3s;
+}
+
+.form-submit:hover::after {
+    width: 100%;
+}
+
+
+.section-title {
+    font-size: 50px;
+}
+
+@media screen and (max-width: 1200px) {
+    .form {
+        grid-template-columns: 1fr;
+    }
+
+    .form__content {
+        width: 100%;
+        max-width: 550px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .form__input-label {
+        width: 100%;
+    }
+}
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    .section-title {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .section-title {
+        font-size: 35px;
+    }
+}
+
+
+@media screen and (max-width: 350px) {
+    .section-title {
+        font-size: 30px;
+    }
+}
+
+
+
+
+/* Modal sweet alert */
+/* background sweet alert */
+div:where(.swal2-container).swal2-backdrop-show {
+    backdrop-filter: blur(4px);
+}

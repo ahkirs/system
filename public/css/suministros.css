@@ -1,0 +1,255 @@
+:root {
+    --light-blue: rgb(35, 103, 213);
+    --light-dark-blue: rgb(16, 75, 171);
+    --dark-blue: rgb(10, 46, 105);
+
+    --card-width: 280px;
+    --svg-icon-width: 35px;
+}
+
+.header__cta {
+    display: flex;
+    grid-gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.stadistics {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+.stadistics-span {
+    font-weight: 700;
+    color: var(--light-dark-blue);
+}
+
+.supplies {
+    margin-top: 50px;
+    padding-inline: 10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(var(--card-width), 1fr));
+    grid-row-gap: 30px;
+    grid-column-gap: 20px;
+    justify-items: center;
+}
+
+
+
+/* CARD SUMINISTRO */
+.card {
+    background-color: #fff;
+    box-shadow: 0 5px 10px 1px rgba(180, 189, 189, 0.8);
+    border-radius: 5px;
+    width: 100%;
+    max-width: 400px;
+    --card-padding: 15px;
+    padding-bottom: var(--card-padding);
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 15px;
+    position: relative;
+}
+
+.card__header-category {
+    background-color: var(--light-blue);
+    display: block;
+    width: 100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    background: var(--dark-blue);
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 10px;
+    text-align: center;
+    letter-spacing: 1.5px;
+}
+
+.card__header__figure {
+    width: 100%;
+    padding-inline: var(--card-padding);
+    margin-top: calc(var(--svg-icon-width) + 5px);
+}
+
+.card__header__figure-img {
+    display: block;
+    width: 100%;
+    max-width: 180px;
+    height: 180px;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+.card__texts {
+    padding-inline: var(--card-padding);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    grid-gap: 3px;
+}
+
+.card__texts-title,
+.card__texts span  {
+    font-weight: 500;
+}
+
+.card-btn {
+    width: max-content;
+    justify-self: center;
+}
+
+.card-delete {
+    position: absolute;
+    top: 45px;
+    right: 10px;
+    z-index: 5;
+    cursor: pointer;
+}
+
+.card-delete::after {
+    display: block;
+    position: absolute;
+    content: "Eliminar suministro";
+    top: -40px;
+    left: -75px;
+    background-color: #f27474;
+    padding: 5px;
+    border-radius: 5px;
+    color: #fff;
+    width: 100px;
+    z-index: 10;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s, top 0.3s;
+    font-size: 15px;
+    box-shadow: 0px 3px 12px 0px rgba(20, 20, 20, 0.2);
+}
+
+.card-delete:hover::after {
+    opacity: 1;
+    top: -50px;
+}
+
+.card-delete svg {
+    fill: #f27474;
+    pointer-events: none;
+    width: var(--svg-icon-width);
+    height: var(--svg-icon-width);
+}
+/* TERMINA CARD SUMINISTRO */
+
+
+
+
+
+
+/* CARD VACIA Y DE ERROR */
+.empty__card {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 5px 10px 1px rgba(50, 50, 50, 0.4);
+    margin: 0 auto;
+    padding: 30px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    grid-gap: 10px;
+}
+
+.empty__card-title {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.empty__card svg {
+    fill: rgb(35, 103, 213);
+    width: 200px;
+    height: 200px;
+}
+
+.empty__card.error svg {
+    fill: rgb(242, 116, 116);
+}
+
+/* TERMINA CARD  */
+
+
+
+
+
+@media screen and (max-width: 1090px) {
+    .header {
+        flex-direction: column;
+        grid-gap: 10px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .supplies {
+        grid-template-columns: 1fr;
+    }
+
+    .stadistics {
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .stadistics {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .stadistics {
+        font-size: 18px;
+    }
+}
+
+
+
+
+
+/* SWEET ALERT */
+div:where(.swal2-container).swal2-backdrop-show {
+    backdrop-filter: blur(4px);
+}
+
+div:where(.swal2-container) .swal2-select,
+div:where(.swal2-container) .swal2-input {
+    width: 100% !important;
+    max-width: 250px !important;
+    font-size: 15px !important;
+    margin: 8px auto 0 !important;
+}
+
+div:where(.swal2-container) label {
+    display: block;
+    width: 100% !important;
+    max-width: 250px !important;
+    margin: 8px auto 0;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    text-align: left;
+}
+
+div:where(.swal2-container) label + .swal2-input {
+    margin-top: 0 !important;
+}
+
+
+@media screen and (max-width: 768px) {
+    div:where(.swal2-container) h2:where(.swal2-title) {
+        font-size: 25px !important;
+    }
+}

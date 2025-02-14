@@ -1,0 +1,249 @@
+.header {
+    text-align: center;
+}
+
+.header-text {
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+
+
+/* Cards */
+.users {
+    margin-top: 80px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-column-gap: 20px;
+    grid-row-gap: 65px;
+    padding: 0 10px;
+    --blue: rgb(25, 40, 81);
+}
+
+.users-stadistics {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 22px;
+}
+
+.users-stadistics span {
+    color: rgb(16, 75, 171);
+    font-weight: 600;
+}
+
+.users__card {
+    box-shadow: 0px 3px 12px 0px rgba(20, 20, 20, 0.2);
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    border-radius: 15px;
+    border-top-left-radius: 0;
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    column-gap: 20px;
+    row-gap: 30px;
+    position: relative;
+    transition: box-shadow 0.7s;
+}
+
+.users__card:hover {
+    animation: bounce 0.7s;
+    box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.3);
+}
+
+@keyframes bounce {
+    0% {
+        transform: translateY(0);
+    }
+
+    20% {
+        transform: translateY(-16px);
+    }
+
+    40% {
+        transform: translateY(0);
+    }
+
+    60% {
+        transform: translateY(-13px);
+    }
+
+    80% {
+        transform: translateY(0px);
+    }
+}
+
+.users__card-number {
+    position: absolute;
+    top: -50px;
+    left: 0px;
+    background-color: var(--blue);
+    color: rgb(255, 255, 255);
+    height: 50px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 30px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.3);
+}
+
+.users__card__figure {
+    width: 140px;
+    height: 140px;
+    background-color: var(--blue);
+    border-radius: 50%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.users__card__figure svg {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    height: 80%;
+    fill: #fff !important;
+}
+
+.users__cards__texts {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.users__cards__texts strong {
+    font-weight: 700;
+    color: rgb(35 103 213);
+    text-transform: capitalize;
+}
+
+.users__actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-top: 35px;
+    gap: 15px;
+    grid-column: 1 / -1;
+    border-top: 2px solid rgb(220, 208, 208);
+}
+
+.users__actions-btn {
+    position: relative;
+    cursor: pointer;
+}
+
+.users__actions-btn svg {
+    width: 35px;
+    height: 35px;
+    fill: rgb(35 103 213) !important;
+    pointer-events: none;
+}
+
+.users__actions-btn span {
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%) translateY(5px);
+    background-color: rgb(35 103 213);
+    display: inline-block;
+    width: max-content;
+    color: #fff;
+    padding: 5px;
+    border-radius: 7px;
+    text-transform: capitalize;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s;
+}
+
+.users__actions-btn:hover>span {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+    pointer-events: unset;
+} 
+
+@media screen and (max-width: 768px) {
+    .users-stadistics {
+        font-size: 20px;
+    }
+} 
+
+@media screen and (max-width: 750px) {
+    .users {
+        grid-template-columns: 1fr;
+    }
+
+    .users__card {
+        min-width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .users__card {
+        grid-template-columns: 1fr;
+    }
+
+    .users__cards__texts {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .users__card__figure {
+        width: 130px;
+        height: 130px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .users-stadistics {
+        font-size: 18px;
+    }
+} 
+
+@media screen and (max-width: 430px) {
+    .header-text {
+        font-size: 16px;
+    }
+
+    .users__card__figure {
+        width: 100px;
+        height: 100px;
+    }
+
+    .users__cards__texts {
+        font-size: 16px;
+    }
+
+    .users__card-number {
+        width: 80px;
+        font-size: 25px;
+        height: 40px;
+        top: -40px;
+    }
+}
+
+
+
+/* Sweet Alert */
+div:where(.swal2-container).swal2-backdrop-show {
+    backdrop-filter: blur(4px);
+}
+
+@media screen and (max-width: 768px) {
+    div:where(.swal2-container) h2:where(.swal2-title) {
+        font-size: 25px !important;
+    }
+} 

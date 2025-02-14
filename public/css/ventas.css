@@ -1,0 +1,11 @@
+.header__cta {
+    display: flex;
+    grid-gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+/* sweet alert */
+div:where(.swal2-container).swal2-backdrop-show {
+    backdrop-filter: blur(4px);
+}

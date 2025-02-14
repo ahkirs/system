@@ -1,0 +1,832 @@
+[25-Jan-2025 06:56:11 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 06:56:12 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 06:56:12 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 06:56:12 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 06:58:45 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 06:58:45 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 06:58:45 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 06:58:45 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 06:59:52 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 06:59:52 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 06:59:52 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 06:59:52 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:01:24 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:01:24 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:01:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:01:24 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:04:46 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:04:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:04:46 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:04:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:04:49 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:04:49 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:04:49 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:04:49 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:04:49 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:04:50 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:05:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:05:05 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:05:05 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:05:05 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:05:09 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:05:09 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:05:09 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:05:09 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:05:27 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:05:27 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:05:29 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:05:29 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:05:57 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:05:58 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\users.php on line 10
+[25-Jan-2025 07:05:58 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\empleados.php on line 9
+[25-Jan-2025 07:05:58 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\empleados.php on line 11
+[25-Jan-2025 07:06:00 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:06:00 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\users.php on line 10
+[25-Jan-2025 07:06:00 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\empleados.php on line 9
+[25-Jan-2025 07:06:00 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\empleados.php on line 11
+[25-Jan-2025 07:17:02 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:17:03 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\users.php on line 10
+[25-Jan-2025 07:17:03 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\empleados.php on line 9
+[25-Jan-2025 07:17:03 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\empleados.php on line 11
+[25-Jan-2025 07:17:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:17:06 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\users.php on line 10
+[25-Jan-2025 07:17:06 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\empleados.php on line 9
+[25-Jan-2025 07:17:06 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\empleados.php on line 11
+[25-Jan-2025 07:17:53 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:17:53 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\users.php on line 10
+[25-Jan-2025 07:17:53 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\empleados.php on line 9
+[25-Jan-2025 07:17:53 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\empleados.php on line 11
+[25-Jan-2025 07:17:56 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:17:56 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\users.php on line 10
+[25-Jan-2025 07:17:56 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\empleados.php on line 9
+[25-Jan-2025 07:17:56 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\empleados.php on line 11
+[25-Jan-2025 07:18:45 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:18:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:18:46 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:18:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:18:48 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:18:48 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:18:48 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:18:48 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:18:48 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:18:49 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:19:02 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:19:02 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\productos.php on line 9
+[25-Jan-2025 07:19:04 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:19:04 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\ventas.php on line 9
+[25-Jan-2025 07:19:04 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:19:04 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:19:04 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:19:05 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\productos.php on line 9
+[25-Jan-2025 07:19:21 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:19:21 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\ventas.php on line 9
+[25-Jan-2025 07:19:23 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:19:23 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\ventas.php on line 9
+[25-Jan-2025 07:19:31 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:19:31 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\ventas.php on line 9
+[25-Jan-2025 07:19:34 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:19:34 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\ventas.php on line 9
+[25-Jan-2025 07:19:39 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:19:39 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\ventas.php on line 9
+[25-Jan-2025 07:19:43 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:19:43 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\ventas.php on line 9
+[25-Jan-2025 07:21:45 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:21:45 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:21:45 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:21:45 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:21:47 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:21:47 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:21:47 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:21:47 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:21:47 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:21:48 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:23:28 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:23:28 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:23:28 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:23:28 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:23:32 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:23:32 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:23:32 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:23:33 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:23:33 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:23:33 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:23:46 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:23:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:23:46 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:23:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:23:49 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:23:49 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:23:49 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:23:49 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:24:46 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:24:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:24:46 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:24:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:24:48 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:24:48 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:24:48 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:24:48 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:24:48 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:24:49 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:25:17 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:25:17 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:25:17 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:25:17 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:25:20 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:25:20 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:25:20 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:25:20 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:25:37 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:25:37 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:25:37 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:25:37 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:26:29 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:26:29 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:26:29 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:26:29 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:26:30 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:26:30 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:26:30 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:26:30 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:26:30 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:26:31 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:32:21 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:32:21 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:32:21 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:32:21 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:32:25 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:32:25 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:32:26 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:32:26 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:32:27 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:32:28 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:34:17 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:34:17 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:34:17 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:34:17 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:36:06 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:36:06 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:36:06 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:36:06 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:36:09 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:36:09 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:36:10 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:36:10 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:36:10 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:36:12 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:37:26 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:37:26 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:37:26 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:37:26 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:37:27 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:37:27 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:37:40 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:37:40 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:37:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:37:40 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:37:42 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:37:42 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:37:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:37:42 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:37:42 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:37:43 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:38:33 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:38:34 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:38:34 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:38:34 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:38:36 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:38:36 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:38:37 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:38:37 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:38:37 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:38:38 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:43:03 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:46:02 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:46:02 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:46:02 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:46:02 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:46:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:46:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:46:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:46:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:46:06 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:46:06 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:46:13 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:46:31 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:46:31 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:46:31 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:46:31 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:46:34 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:46:34 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:46:35 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:46:35 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:46:35 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:46:36 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:47:32 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:47:32 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:47:33 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:47:33 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:47:34 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:48:54 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:48:55 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:48:55 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:48:55 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:48:58 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:48:58 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:48:58 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:48:58 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:48:58 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:48:58 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:49:02 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:49:02 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:49:02 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:49:02 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:49:04 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:49:04 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:49:04 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:49:04 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:49:04 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:49:06 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:50:21 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:55:24 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:55:25 Europe/Berlin] PHP Notice:  Undefined index: userId in C:\xampp\htdocs\LunchSystem\controllers\login.php on line 13
+[25-Jan-2025 07:55:51 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:55:51 Europe/Berlin] PHP Notice:  Undefined index: userId in C:\xampp\htdocs\LunchSystem\controllers\login.php on line 21
+[25-Jan-2025 07:55:52 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:55:52 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\main.php on line 7
+[25-Jan-2025 07:55:56 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:55:56 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\ventas.php on line 9
+[25-Jan-2025 07:56:19 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:56:19 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\main.php on line 7
+[25-Jan-2025 07:56:23 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:56:24 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\ventas.php on line 9
+[25-Jan-2025 07:56:37 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:56:37 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:56:37 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:56:37 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:56:39 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:56:39 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:56:40 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:56:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:56:40 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:56:40 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:56:54 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:56:54 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:56:54 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 07:56:54 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 07:56:56 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:56:57 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:56:57 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:56:57 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 07:56:57 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:57:00 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:57:56 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:57:56 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:57:57 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:57:57 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:57:59 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:57:59 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 07:57:59 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:02:26 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:02:26 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:02:26 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:02:26 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:02:28 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:02:28 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:02:29 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:02:29 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:02:29 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:02:38 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:02:46 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:03:10 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:03:10 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:03:10 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:03:10 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:03:13 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:03:13 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:03:13 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:03:14 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:03:14 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:03:23 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:09:49 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:09:49 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:09:49 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:09:49 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:09:51 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:09:51 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:09:51 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:09:51 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:09:52 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:09:58 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:09:58 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:09:58 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:09:58 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:10:02 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:10:02 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:10:02 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:10:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:10:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:10:13 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:10:34 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:10:43 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:12:26 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:12:26 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:12:26 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:12:26 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:13:31 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:13:31 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:13:31 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:13:31 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:14:43 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:14:43 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:14:43 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:14:43 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:14:47 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:14:48 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:14:48 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:14:48 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:14:49 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:14:56 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:15:28 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:15:28 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:15:28 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:15:29 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:15:29 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:15:54 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:15:54 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:15:54 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:15:54 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:20:30 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:20:30 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:20:30 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:20:30 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:26:20 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:26:20 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:26:20 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:26:20 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:27:11 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:27:11 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:27:11 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:27:11 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:29:17 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:29:17 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:29:17 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:29:17 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:30:33 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:30:34 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:30:34 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:30:34 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:32:43 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:32:43 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:32:43 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:32:43 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:32:46 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:32:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:32:46 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:32:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:32:46 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:32:47 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:33:23 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:33:23 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:33:23 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:33:23 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:33:23 Europe/Berlin] PHP Warning:  unlink(C:\xampp\htdocs\LunchSystem\controllers../../public/assets/img/suministros/imagen_67948eda5b663.png): No such file or directory in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 191
+[25-Jan-2025 08:33:24 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:33:24 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:33:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:33:24 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:33:29 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:33:29 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:33:29 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:33:29 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:33:30 Europe/Berlin] PHP Warning:  unlink(C:\xampp\htdocs\LunchSystem\controllers../../public/assets/img/suministros/imagen_67948f1bbf6f0.png): No such file or directory in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 191
+[25-Jan-2025 08:33:30 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:33:30 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:33:30 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:33:30 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:33:35 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:33:35 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:33:35 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:33:35 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:33:36 Europe/Berlin] PHP Warning:  unlink(C:\xampp\htdocs\LunchSystem\controllers../../public/assets/img/suministros/imagen_67948fab306ab.png): No such file or directory in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 191
+[25-Jan-2025 08:33:36 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:33:36 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:33:36 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:33:36 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:33:41 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:33:41 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:33:41 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:33:41 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:33:42 Europe/Berlin] PHP Warning:  unlink(C:\xampp\htdocs\LunchSystem\controllers../../public/assets/img/suministros/imagen_679490beeeca9.png): No such file or directory in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 191
+[25-Jan-2025 08:33:42 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:33:42 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:33:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:33:42 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:33:47 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:33:47 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:33:47 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:33:47 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:33:47 Europe/Berlin] PHP Warning:  unlink(C:\xampp\htdocs\LunchSystem\controllers../../public/assets/img/suministros/imagen_6794921cd2f65.png): No such file or directory in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 191
+[25-Jan-2025 08:33:48 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:33:48 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:33:48 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:33:48 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:33:53 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:33:53 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:33:53 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:33:53 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:33:53 Europe/Berlin] PHP Warning:  unlink(C:\xampp\htdocs\LunchSystem\controllers../../public/assets/img/suministros/imagen_6794924f72033.png): No such file or directory in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 191
+[25-Jan-2025 08:33:54 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:33:54 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:33:54 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:33:54 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:34:17 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:34:17 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:34:17 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:34:17 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:34:18 Europe/Berlin] PHP Warning:  unlink(C:\xampp\htdocs\LunchSystem\controllers../../public/assets/img/suministros/imagen_6794931a5077e.png): No such file or directory in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 191
+[25-Jan-2025 08:34:18 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:34:18 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:34:18 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:34:18 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:34:24 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:34:24 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:34:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:34:24 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:34:25 Europe/Berlin] PHP Warning:  unlink(C:\xampp\htdocs\LunchSystem\controllers../../public/assets/img/suministros/imagen_679492cd7a1ec.png): No such file or directory in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 191
+[25-Jan-2025 08:34:26 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:34:26 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:34:26 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:34:26 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:36:02 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:02 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:36:02 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:36:02 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:36:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\LunchSystem\models\categoriasModelo.php:11
+Stack trace:
+#0 C:\xampp\htdocs\LunchSystem\controllers\categorias.php(17): CategoriasModelo->all_categorias()
+#1 C:\xampp\htdocs\LunchSystem\libs\app.php(34): Categorias->getCategory()
+#2 C:\xampp\htdocs\LunchSystem\index.php(13): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\LunchSystem\models\categoriasModelo.php on line 11
+[25-Jan-2025 08:36:08 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:36:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\LunchSystem\models\proveedoresModelo.php:28
+Stack trace:
+#0 C:\xampp\htdocs\LunchSystem\controllers\proveedores.php(32): ProveedoresModelo->obtener_proveedores()
+#1 C:\xampp\htdocs\LunchSystem\libs\app.php(34): Proveedores->getsupplier()
+#2 C:\xampp\htdocs\LunchSystem\index.php(13): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\LunchSystem\models\proveedoresModelo.php on line 28
+[25-Jan-2025 08:36:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\LunchSystem\models\ubicacionesModelo.php:21
+Stack trace:
+#0 C:\xampp\htdocs\LunchSystem\controllers\ubicaciones.php(20): UbicacionesModelo->municipios(2)
+#1 C:\xampp\htdocs\LunchSystem\libs\app.php(34): Ubicaciones->municipios()
+#2 C:\xampp\htdocs\LunchSystem\index.php(13): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\LunchSystem\models\ubicacionesModelo.php on line 21
+[25-Jan-2025 08:36:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\LunchSystem\models\categoriasModelo.php:11
+Stack trace:
+#0 C:\xampp\htdocs\LunchSystem\controllers\categorias.php(23): CategoriasModelo->all_categorias()
+#1 C:\xampp\htdocs\LunchSystem\libs\app.php(34): Categorias->getidCategory()
+#2 C:\xampp\htdocs\LunchSystem\index.php(13): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\LunchSystem\models\categoriasModelo.php on line 11
+[25-Jan-2025 08:36:14 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:14 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:36:14 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:36:14 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:36:19 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:19 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:19 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:36:20 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:20 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\LunchSystem\models\proveedoresModelo.php:28
+Stack trace:
+#0 C:\xampp\htdocs\LunchSystem\controllers\proveedores.php(32): ProveedoresModelo->obtener_proveedores()
+#1 C:\xampp\htdocs\LunchSystem\libs\app.php(34): Proveedores->getsupplier()
+#2 C:\xampp\htdocs\LunchSystem\index.php(13): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\LunchSystem\models\proveedoresModelo.php on line 28
+[25-Jan-2025 08:36:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\LunchSystem\models\categoriasModelo.php:11
+Stack trace:
+#0 C:\xampp\htdocs\LunchSystem\controllers\categorias.php(17): CategoriasModelo->all_categorias()
+#1 C:\xampp\htdocs\LunchSystem\libs\app.php(34): Categorias->getCategory()
+#2 C:\xampp\htdocs\LunchSystem\index.php(13): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\LunchSystem\models\categoriasModelo.php on line 11
+[25-Jan-2025 08:36:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\LunchSystem\models\ubicacionesModelo.php:21
+Stack trace:
+#0 C:\xampp\htdocs\LunchSystem\controllers\ubicaciones.php(20): UbicacionesModelo->municipios(2)
+#1 C:\xampp\htdocs\LunchSystem\libs\app.php(34): Ubicaciones->municipios()
+#2 C:\xampp\htdocs\LunchSystem\index.php(13): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\LunchSystem\models\ubicacionesModelo.php on line 21
+[25-Jan-2025 08:36:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\LunchSystem\models\categoriasModelo.php:11
+Stack trace:
+#0 C:\xampp\htdocs\LunchSystem\controllers\categorias.php(23): CategoriasModelo->all_categorias()
+#1 C:\xampp\htdocs\LunchSystem\libs\app.php(34): Categorias->getidCategory()
+#2 C:\xampp\htdocs\LunchSystem\index.php(13): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\LunchSystem\models\categoriasModelo.php on line 11
+[25-Jan-2025 08:36:40 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:40 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:36:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:36:40 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:36:44 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:44 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:45 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:45 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\LunchSystem\models\categoriasModelo.php:11
+Stack trace:
+#0 C:\xampp\htdocs\LunchSystem\controllers\categorias.php(17): CategoriasModelo->all_categorias()
+#1 C:\xampp\htdocs\LunchSystem\libs\app.php(34): Categorias->getCategory()
+#2 C:\xampp\htdocs\LunchSystem\index.php(13): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\LunchSystem\models\categoriasModelo.php on line 11
+[25-Jan-2025 08:36:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:36:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\LunchSystem\models\proveedoresModelo.php:28
+Stack trace:
+#0 C:\xampp\htdocs\LunchSystem\controllers\proveedores.php(32): ProveedoresModelo->obtener_proveedores()
+#1 C:\xampp\htdocs\LunchSystem\libs\app.php(34): Proveedores->getsupplier()
+#2 C:\xampp\htdocs\LunchSystem\index.php(13): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\LunchSystem\models\proveedoresModelo.php on line 28
+[25-Jan-2025 08:36:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\LunchSystem\models\ubicacionesModelo.php:21
+Stack trace:
+#0 C:\xampp\htdocs\LunchSystem\controllers\ubicaciones.php(20): UbicacionesModelo->municipios(2)
+#1 C:\xampp\htdocs\LunchSystem\libs\app.php(34): Ubicaciones->municipios()
+#2 C:\xampp\htdocs\LunchSystem\index.php(13): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\LunchSystem\models\ubicacionesModelo.php on line 21
+[25-Jan-2025 08:36:59 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:36:59 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:36:59 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:36:59 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:37:03 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:03 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:03 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:03 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:03 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:37:04 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:10 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:10 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:37:13 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:13 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:37:19 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:19 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:37:19 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:37:19 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:37:21 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:21 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:37:21 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:37:21 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:37:22 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:22 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:37:28 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:28 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:37:28 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:37:28 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:37:30 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:31 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:31 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:31 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:37:31 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:37:32 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:38:43 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:38:43 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:38:43 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:38:43 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:40:50 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:40:51 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:40:51 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:40:51 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:41:34 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:41:35 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:41:35 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:41:35 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:46:47 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:46:47 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:46:47 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:46:47 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:50:04 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:50:05 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:50:05 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:50:05 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:55:51 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:55:52 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:55:52 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:55:52 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:58:18 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:58:18 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:58:18 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:58:18 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:58:21 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:58:21 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:58:21 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:58:21 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:58:21 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:58:23 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:59:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:59:05 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:59:05 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:59:05 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:59:09 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:59:09 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:59:09 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:59:09 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:59:09 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:59:09 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:59:14 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:59:14 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 08:59:14 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 08:59:14 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 08:59:21 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 08:59:21 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:05:59 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:05:59 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:05:59 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:05:59 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:06:04 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:06:04 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:06:04 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:06:04 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:06:04 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:06:05 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:07:04 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:07:04 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:07:04 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:07:04 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:07:07 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:07:07 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:07:08 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:07:08 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:07:08 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:07:13 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:07:38 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:07:38 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:07:38 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:07:38 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:07:41 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:07:41 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:07:41 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:07:41 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:07:41 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:07:42 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:07:54 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:07:54 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:07:54 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:07:54 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:07:58 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:07:58 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:07:58 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:07:58 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:08:20 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:08:20 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:08:20 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:08:20 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:08:23 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:08:23 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:08:23 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:08:23 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:08:23 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:08:24 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:08:45 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:08:45 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:08:45 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:08:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:08:49 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:08:50 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:08:50 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:08:50 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:08:50 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:09:15 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:19:34 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:19:34 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\main.php on line 7
+[25-Jan-2025 09:19:39 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:19:42 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\ventas.php on line 9
+[25-Jan-2025 09:20:46 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:20:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:20:46 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:20:46 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:20:55 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:20:55 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:20:55 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:20:55 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:20:55 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:20:55 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:21:23 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:21:23 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:21:23 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:21:23 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:21:25 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:21:25 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:21:38 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:21:38 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:21:38 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:21:38 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:21:42 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:21:42 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:21:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:21:42 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:22:27 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:22:27 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:22:27 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:22:27 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:22:31 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:22:31 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:22:31 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:22:31 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:23:09 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:23:09 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:23:09 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:23:09 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:23:13 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:23:13 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:23:13 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:23:13 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:23:13 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:23:13 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:23:55 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:23:55 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:23:55 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:23:55 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:24:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:24:05 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:24:05 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:24:05 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:27:53 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:27:53 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:27:53 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:27:53 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:27:54 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 265
+[25-Jan-2025 09:28:50 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:28:50 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:28:50 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:28:50 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:28:50 Europe/Berlin] PHP Notice:  Undefined index: lista in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 265
+[25-Jan-2025 09:29:24 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:29:24 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:29:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:29:24 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:29:24 Europe/Berlin] PHP Notice:  Undefined index: lista in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 265
+[25-Jan-2025 09:29:50 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:29:50 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:29:50 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:29:50 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:39:24 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:39:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\login.php on line 304
+[25-Jan-2025 09:39:25 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:39:25 Europe/Berlin] PHP Notice:  Undefined index: userId in C:\xampp\htdocs\LunchSystem\controllers\login.php on line 13
+[25-Jan-2025 09:39:34 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:39:34 Europe/Berlin] PHP Notice:  Undefined index: userId in C:\xampp\htdocs\LunchSystem\controllers\login.php on line 21
+[25-Jan-2025 09:39:34 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'luncheria_db_clone.usuarios' doesn't exist in C:\xampp\htdocs\LunchSystem\models\loginModelo.php:16
+Stack trace:
+#0 C:\xampp\htdocs\LunchSystem\models\loginModelo.php(16): PDOStatement->execute()
+#1 C:\xampp\htdocs\LunchSystem\controllers\login.php(36): LoginModelo->login('admin', 'Admin1234$')
+#2 C:\xampp\htdocs\LunchSystem\libs\app.php(34): Login->startLogin()
+#3 C:\xampp\htdocs\LunchSystem\index.php(13): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\LunchSystem\models\loginModelo.php on line 16
+[25-Jan-2025 09:39:50 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:39:50 Europe/Berlin] PHP Notice:  Undefined index: userId in C:\xampp\htdocs\LunchSystem\controllers\login.php on line 13
+[25-Jan-2025 09:39:59 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:39:59 Europe/Berlin] PHP Notice:  Undefined index: userId in C:\xampp\htdocs\LunchSystem\controllers\login.php on line 21
+[25-Jan-2025 09:39:59 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'luncheria_db_clone.usuarios' doesn't exist in C:\xampp\htdocs\LunchSystem\models\loginModelo.php:16
+Stack trace:
+#0 C:\xampp\htdocs\LunchSystem\models\loginModelo.php(16): PDOStatement->execute()
+#1 C:\xampp\htdocs\LunchSystem\controllers\login.php(36): LoginModelo->login('admin', 'Admin1234$')
+#2 C:\xampp\htdocs\LunchSystem\libs\app.php(34): Login->startLogin()
+#3 C:\xampp\htdocs\LunchSystem\index.php(13): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\LunchSystem\models\loginModelo.php on line 16
+[25-Jan-2025 09:43:56 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:43:56 Europe/Berlin] PHP Notice:  Undefined index: userId in C:\xampp\htdocs\LunchSystem\controllers\login.php on line 21
+[25-Jan-2025 09:45:59 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:45:59 Europe/Berlin] PHP Notice:  Undefined index: userId in C:\xampp\htdocs\LunchSystem\controllers\login.php on line 21
+[25-Jan-2025 09:46:00 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:46:00 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\main.php on line 7
+[25-Jan-2025 09:46:05 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:46:05 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\ventas.php on line 9
+[25-Jan-2025 09:46:17 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:46:17 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:46:17 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:46:17 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:46:19 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:46:19 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[25-Jan-2025 09:46:19 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 10
+[25-Jan-2025 09:46:19 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\suministros.php on line 12
+[25-Jan-2025 09:46:19 Europe/Berlin] Inicio de aplicación web
+[25-Jan-2025 09:46:19 Europe/Berlin] PHP Notice:  Undefined index: userStatus in C:\xampp\htdocs\LunchSystem\controllers\proveedores.php on line 9
+[08-Feb-2025 14:40:07 Europe/Berlin] Inicio de aplicación web
+[08-Feb-2025 14:40:08 Europe/Berlin] Inicio de aplicación web
+[08-Feb-2025 14:40:09 Europe/Berlin] Inicio de aplicación web
+[08-Feb-2025 14:40:10 Europe/Berlin] Inicio de aplicación web
+[08-Feb-2025 14:40:10 Europe/Berlin] Inicio de aplicación web
+[08-Feb-2025 14:40:10 Europe/Berlin] Inicio de aplicación web
+[08-Feb-2025 14:40:10 Europe/Berlin] Inicio de aplicación web
+[08-Feb-2025 14:40:10 Europe/Berlin] Inicio de aplicación web
+[08-Feb-2025 14:40:11 Europe/Berlin] Inicio de aplicación web

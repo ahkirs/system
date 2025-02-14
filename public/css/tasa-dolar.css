@@ -1,0 +1,69 @@
+.tasa-dolar {
+    position: fixed;
+    z-index: 10;
+    right: 2%;
+    bottom: 20px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    cursor: pointer;
+    font-size: 16px;
+    background-color: rgb(35, 103, 213);
+    color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+    height: 40px;
+    width: max-content;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+}
+
+.tasa-dolar svg {
+    fill: #fff;
+    width: 30px;
+    height: 30px;
+}
+
+.tasa-dolar::after {
+    content: "Ver tasa del dolar";
+    text-transform: lowercase;
+    position: absolute;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 3px 1px;
+    top: -30px;
+    right: 0px;
+    width: 100px;
+    background-color: rgb(35, 103, 213);
+    opacity: 0;
+    transition: opacity 0.2s, top 0.2s;
+}
+
+.tasa-dolar:hover::after {
+    top: -45px;
+    opacity: 1;
+}
+
+
+/* Boton de actualizar la tasa de cambio */
+#update-tasa svg {
+    pointer-events: none;
+}
+
+
+/* SWEET ALERT */
+.sweet__texts {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 5px;
+}
+
+.sweet__texts p {
+    font-size: 16px;
+}
+
+.sweet__texts span {
+    color: rgb(35, 103, 213);
+    font-weight: 500;
+}

@@ -1,0 +1,183 @@
+:root {
+    --light-blue: rgb(35, 103, 213);
+    --light-dark-blue: rgb(16, 75, 171);
+    --dark-blue: rgb(10,46,105);
+
+    --max-width-card: 385px;
+}
+
+.stadistics {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+.stadistics-span {
+    font-weight: 700;
+    color: var(--light-dark-blue);
+}
+
+.suppliers {
+    margin-top: 20px;
+    padding-inline: 10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(var(--max-width-card), 1fr));
+    grid-gap: 20px 10px;
+    justify-items: center;
+}
+
+
+/* CARDS */
+.card {
+    background-color: #fff;
+    box-shadow: 0 5px 10px 1px rgba(180,189,189,0.8);
+    width: 100%;
+    max-width: 550px;
+    border-radius: 5px;
+}
+
+.card__header {
+    width: 100%;
+    position: relative;
+    height: 130px;
+    z-index: 1;
+}
+
+.card__header-clippy,
+.card__header-clippy-shadow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    clip-path: polygon(0% 0%, 100% 0, 100% 73%, 50% 100%, 0 73%);
+    background: var(--dark-blue);
+    background: linear-gradient(180deg, var(--dark-blue) 23%, var(--light-blue) 100%);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.card__header-clippy-shadow {
+    height: calc(100% + 7px);
+    z-index: 1;
+    background: #bdbaba;
+}
+
+.card__header-name {
+    position: relative;
+    z-index: 5;
+    text-align: center;
+    color: #fff;
+    padding: 30px 20px 10px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.card__texts {
+    width: 100%;
+    padding: 15px 20px;
+    display: flex;
+    flex-direction: column;
+    grid-gap: 8px;
+}
+
+.card__texts__item {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    grid-gap: 5px;
+}
+
+.card__texts__item-title {
+    font-weight: 500;
+}
+
+.card__texts__item svg {
+    width: 22px;
+    height: 22px;
+    fill: var(--light-blue);
+}
+/* ENDS CARDS STYLE */
+
+
+
+/* CARD VACIA Y DE ERROR */
+.empty__card {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 5px 10px 1px rgba(50,50,50,0.4);
+    margin: 0 auto;
+    padding: 30px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    grid-gap: 10px;
+}
+
+.empty__card-title {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.empty__card svg {
+    fill: rgb(35, 103, 213);
+    width: 200px;
+    height: 200px;
+}
+
+.empty__card.error svg {
+    fill: rgb(242, 116, 116);
+}
+/* TERMINA CARD VACIA Y DE ERROR */
+
+
+
+
+@media screen and (max-width: 1150px) {
+    .suppliers {
+        grid-template-columns: 1fr;
+    }
+
+    .card {
+        max-width: 450px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .header {
+        flex-direction: column;
+        grid-gap: 10px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .stadistics {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .card__header-name {
+        padding: 15px 10px 10px;
+        font-size: 20px;
+    }
+
+    .card__texts__item-text,
+    .card__texts__item-title {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .stadistics {
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,306 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    overflow-x: hidden;
+    color: #000;
+    background-color: #fff;
+}
+
+button,
+input {
+    border: none;
+    outline: none;
+    font-family: inherit;
+}
+
+a {
+    text-decoration: none;
+    font-family: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+main {
+    height: 100vh;
+    width: 100%;
+}
+
+.login {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: 100%;
+    width: 100%;
+    --blue: rgb(10, 46, 105);
+}
+
+
+/* Formulario */
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    grid-gap: 25px;
+    width: 90%;
+    max-width: 380px;
+    margin: 0 auto; 
+}
+
+.form__img {
+    width: 280px;
+}
+
+.form__img-img {
+    width: 100%;
+}
+
+.form__input {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+    position: relative;
+    font-size: 18px;
+}
+
+.form__input-input {
+    display: inline-block;
+    border: none;
+    outline: none;
+    background-color: rgb(207, 207, 207);
+    height: 45px;
+    padding-left: 15px;
+    padding-right: 45px;
+    color: var(--blue);
+    font-size: 18px;
+    border-radius: 7px;
+}
+
+.form__input-label {
+    color: var(--blue);
+    padding-left: 15px;
+    text-transform: capitalize;
+    font-size: 18px;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.form__input-label.form__input-label--tooltip {
+    display: inline-flex;
+    align-items: center;
+    grid-gap: 10px;
+}
+
+.form__input-label span {
+    position: relative;
+    height: max-content;
+}
+
+.form__input-label span::after {
+    content: "Solo se permiten letras y numeros, no se aceptan caracteres especiales";
+    text-transform: lowercase;
+    display: block;
+    position: absolute;
+    top: -55px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgb(35, 103, 213);
+    padding: 3px;
+    color: #fff;
+    width: 200px;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 5px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    z-index: 10;
+    pointer-events: none;
+}
+
+.form__input-label span:hover::after {
+    opacity: 1;
+}
+
+.form__input-label svg {
+    fill: rgb(35, 103, 213);
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+}
+
+.form__input__eye {
+    position: absolute;
+    right: 15px;
+    bottom: 6px;
+    width: 25px;
+    border: none;
+    outline: none;
+    background: none;
+    background-color: rgb(207, 207, 207);
+    z-index: 5;
+}
+
+.form__input__eye-img {
+    cursor: pointer;
+}
+
+.form__input__eye-img-2 {
+    cursor: pointer;
+}
+
+.form-submit {
+    color: #fff;
+    background-color: var(--blue);
+    padding: 12px 30px;
+    border-radius: 7px;
+    text-transform: capitalize;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    font-weight: 500;
+}
+
+.form-submit::after {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 0;
+    z-index: -1;
+    border-radius: 7px;
+    transition: width 0.3s;
+    background-color: rgb(16, 75, 171);
+}
+
+.form-submit:hover::after {
+    width: 100%;
+}
+
+.form__recovery {
+    font-size: 15px;
+    color: #000;
+    position: relative;
+}
+
+.form__recovery:after {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    width: 0;
+    height: 3px;
+    background-color: rgb(16, 75, 171);
+    z-index: 1;
+    transition: width 0.3s;
+}
+
+.form__recovery:hover::after {
+    width: 100%;
+}
+
+.form__recovery span {
+    color: rgb(16, 75, 171);
+    font-weight: 600;
+}
+
+
+/* Banner */
+.login__figure {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.login__figure-banner {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .login {
+        grid-template-columns: 1fr;
+        min-height: 100vh;
+        align-items: center;
+    }
+
+    .login__figure {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 5;
+    }
+    
+    .login__figure-logo {
+        display: none;
+        visibility: hidden;
+    }
+
+    .form {
+        position: relative;
+        z-index: 20;
+        background-color: #fff;
+        height: max-content;
+        border-radius: 5px;
+        padding: 40px 20px;
+        max-width: 450px;
+    }
+
+    .form__img {
+        max-width: 230px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .form {
+        padding-inline: 0;
+    }
+
+    .form__input {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
+
+
+
+
+
+
+/* LOBIBOX */
+.lobibox-notify-msg {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.lobibox-notify-title {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.lobibox-notify .lobibox-notify-body {
+    margin: 10px 20px 5px 20px;
+}
+
+.lobibox-notify .lobibox-notify-body .lobibox-notify-title {
+    margin-bottom: 5px;
+}

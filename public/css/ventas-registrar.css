@@ -1,0 +1,4 @@
+/* sweet alert */
+div:where(.swal2-container).swal2-backdrop-show {
+    backdrop-filter: blur(4px);
+}

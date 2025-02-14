@@ -1,0 +1,147 @@
+:root {
+    --light-blue: rgb(35, 103, 213);
+    --light-dark-blue: rgb(16, 75, 171);
+    --dark-blue: rgb(10, 46, 105);
+}
+
+.section-title {
+    font-size: 50px;
+    text-align: center;
+}
+
+.table__section {
+    margin-top: 50px;
+}
+
+
+
+/* CARD DE ERROR */
+.card__error {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 5px 10px 1px rgba(50,50,50,0.4);
+    margin: 0 auto;
+    padding: 30px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    grid-gap: 10px;
+}
+
+.card__error-title {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #ec4545;
+}
+
+.card__error svg {
+    fill: #ec4545;
+    width: 200px;
+    height: 200px;
+}
+
+.card__error.error svg {
+    fill: rgb(242, 116, 116);
+}
+/* TERMINA CARD ERROR */
+
+
+
+
+@media screen and (max-width: 1024px) {
+    .section-title {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .section-title {
+        font-size: 35px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .section-title {
+        font-size: 30px;
+    }
+}
+
+
+
+/* Data Tables */
+table.dataTable {
+    font-size: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+table.dataTable>tbody>tr>td {
+    padding: 5px;
+}
+
+div.dt-container .dt-paging .dt-paging-button {
+    transition: all 0.3s;
+    border-radius: 4px;
+    font-weight: 500;
+    border: none;
+    outline: none;
+}
+
+div.dt-container .dt-paging .dt-paging-button.current,
+div.dt-container .dt-paging .dt-paging-button.current:hover,
+div.dt-container .dt-paging .dt-paging-button:hover {
+    background: var(--light-blue);
+    color: #fff !important;
+    border: none;
+    outline: none;
+}
+
+#myTable thead,
+div.dt-container select.dt-input {
+    background-color: var(--dark-blue);
+    color: #fff;
+}
+
+div.dt-container select.dt-input {
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+div.dt-container .dt-search label {
+    cursor: pointer;
+}
+
+div.dt-container .dt-search input {
+    margin-left: 5px;
+    transition: border 0.3s, box-shadow 0.3s;
+}
+
+div.dt-container .dt-search input:focus-visible {
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    border: 1px solid var(--light-blue);
+}
+
+
+/* Iconos en responsive */
+table.dataTable.dtr-inline.collapsed>tbody>tr>td.dtr-control:before,
+table.dataTable.dtr-inline.collapsed>tbody>tr>th.dtr-control:before {
+    border: none;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-image: url(../assets/img/plus-icon.svg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+table.dataTable.dtr-inline.collapsed>tbody>tr.dtr-expanded>td.dtr-control:before,
+table.dataTable.dtr-inline.collapsed>tbody>tr.dtr-expanded>th.dtr-control:before {
+    border: none;
+    background-image: url(../assets/img/minus-icon.svg);
+}

@@ -1,0 +1,113 @@
+.section-title {
+    text-align: center;
+}
+
+.section__form {
+    padding: 0 12px;
+}
+
+.form {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+    box-shadow: 0px 3px 12px 0px rgba(20, 20, 20, 0.2);
+    width: 100%;
+    max-width: 550px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.form-title {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.form__input {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 5px;
+    width: 100%;
+    height: max-content;
+}
+
+.form__input-input,
+.form__input-select {
+    height: 35px;
+    padding: 0 5px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    font-size: 15px;
+    width: 100%;
+    border: 1px solid transparent;
+    transition: border-color 0.2s;
+}
+
+.form__input-select {
+    background-color: rgb(25, 40, 81);
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+.form__input-input:focus {
+    border-color: rgb(35, 103, 213);
+}
+
+.form__input-label {
+    font-size: 16px;
+    cursor: pointer;
+    width: max-content;
+    font-weight: 500
+}
+
+#imagenProducto {
+    display: none;
+}
+
+.form__input-btnImg {
+    height: 35px;
+    line-height: 35px;
+    width: max-content;
+    font-size: 15px;
+    background-color: rgb(25, 40, 81);
+    color: #fff;
+    border-radius: 5px;
+    padding: 0 10px;
+    cursor: pointer;
+}
+
+.form-submit {
+    width: max-content;
+    justify-self: center;
+}
+
+.form__input-error {
+    display: block;
+    background-color: #d33;
+    color: #fff;
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 5px;
+    grid-column: 1 / -1
+}
+
+
+@media screen and (max-width: 430px) {
+    .section-title {
+        font-size: 30px;
+    }
+}
+
+
+
+/* SWEET ALERT */
+div:where(.swal2-container).swal2-top,
+div:where(.swal2-container).swal2-center,
+div:where(.swal2-container).swal2-bottom {
+    backdrop-filter: blur(5px);
+}

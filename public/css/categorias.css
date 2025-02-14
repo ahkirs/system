@@ -1,0 +1,137 @@
+.card__section {
+    padding-inline: 5px;
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+}
+
+/* CARD */
+.card {
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 2px 1px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    height: max-content;
+}
+
+.card-number {
+    padding: 5px;
+    /* background-color: rgb(35, 103, 213); */
+    background-color: rgb(10, 46, 105);
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.card-text,
+.card__buttons {
+    padding-inline: 20px;
+}
+
+.card-text {
+    font-size: 17px;
+}
+
+.card-category {
+    font-weight: 500;
+    color: rgb(16, 75, 171);
+}
+
+.card__buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-gap: 10px;
+    margin-top: 15px;
+}
+
+.card__buttons-btn {
+    padding: 7px 15px;
+}
+
+.card__buttons-btn svg {
+    width: 20px;
+    pointer-events: none;
+}
+
+.card__buttons-btn.delete {
+    background-color: #f27474;
+}
+
+.card__buttons-btn.card__buttons-btn.delete::after {
+    background-color: #c05151;
+}
+/* CARD END */
+
+
+/* ERROR CARD */
+.error__card {
+    width: 100%;
+    max-width: 400px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 5px 10px 1px rgba(50, 50, 50, 0.4);
+    margin: 0 auto;
+    padding: 30px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    grid-gap: 10px;
+}
+
+.error__card-title {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 600;
+    text-transform: uppercase
+}
+
+.error__card svg {
+    fill: rgb(242, 116, 116);
+    width: 180px;
+    height: 180px;
+}
+
+.error__card.empty svg {
+    fill: #538ae2;
+}
+/* ERROR CARD END */
+
+
+
+@media screen and (max-width: 670px) {
+    .header {
+        flex-direction: column;
+        grid-gap: 10px;
+    }
+}
+
+
+
+/* SWEET ALERT */
+div:where(.swal2-container).swal2-backdrop-show {
+    backdrop-filter: blur(4px);
+}
+
+div:where(.swal2-container) .swal2-input {
+    width: 300px;
+    font-size: 17px;
+}
+
+@media screen and (max-width: 630px) {
+    div:where(.swal2-container) .swal2-input  {
+        width: 100%;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+}
